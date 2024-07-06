@@ -22,7 +22,7 @@ I'm always excited to work on new projects. Feel free to reach out if you have a
 
 ## Contact Me
 - 📫 How to reach me: 
-  - Email: harshitshuklaharsh@gmail.com
+  - Email: harshitshuklaharsh8@gmail.com
   - LinkedIn: [linkedin.com/in/harsshhit](https://www.linkedin.com/in/harshit-shukla-8b706417a)
   - GitHub: [github.com/harsshhit](https://github.com/harshhit)
 

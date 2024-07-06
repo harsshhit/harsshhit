@@ -16,12 +16,6 @@ I'm a passionate Full Stack Web Developer specializing in the MERN stack. I love
 - **Tools & Platforms:** Git, Docker, AWS, Firebase
 - **Other:** RESTful APIs, GraphQL, WebSockets
 
-## Projects
-### [Project 1: E-commerce Website](https://github.com/harsshhit/ecommerce-website)
-An end-to-end e-commerce platform with user authentication, product management, and a shopping cart. Built with React, Node.js, Express, and MongoDB.
-
-### [Project 2: Real-time Chat Application](https://github.com/harsshhit/chat-app)
-A real-time chat application using WebSockets, with features like private messaging, group chats, and notifications. Built with React and Node.js.
 
 ## Collaboration
 I'm always excited to work on new projects. Feel free to reach out if you have an idea or if you want to collaborate on an existing project.
@@ -29,7 +23,7 @@ I'm always excited to work on new projects. Feel free to reach out if you have a
 ## Contact Me
 - 📫 How to reach me: 
   - Email: harshitshuklaharsh@gmail.com
-  - LinkedIn: [linkedin.com/in/harsshhit]([https://www.linkedin.com/in/harshit-shukla-8b706417a])
+  - LinkedIn: [linkedin.com/in/harsshhit](https://www.linkedin.com/in/harshit-shukla-8b706417a)
   - GitHub: [github.com/harsshhit](https://github.com/harshhit)
 
 ## Pronouns
